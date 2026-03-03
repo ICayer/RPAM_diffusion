@@ -1,0 +1,553 @@
+﻿id,etape,activite,organisation,ville
+1,1-Prélèvement,Représentation,Alliance des pêcheurs professionnels du Québec (APPQ),Cap-aux-Meules
+2,1-Prélèvement,Représentation,Association des aquaculteurs du Québec (AAQ),Longueuil
+3,1-Prélèvement,Représentation,Association des capitaines propriétaires de la Gaspésie (ACPG),Gaspé
+4,1-Prélèvement,Représentation,Association des chasseurs de phoques intra-Québec (ACPIQ),Cap-aux-Meules
+5,1-Prélèvement,Représentation,Association des crabiers des îles de la Madeleine,Cap-aux-Meules
+6,1-Prélèvement,Représentation,Association des crabiers gaspésiens,Gascons
+7,1-Prélèvement,Représentation,Association des Pêcheurs Commerciaux de Homard de la Zone 18,Port-Cartier 
+8,1-Prélèvement,Représentation,ASSOCIATION DES PECHEURS COTIERS DE ST-JOACHIM-DE TOURELLE INC.,Saint-Joachim-de-Tourelle
+9,1-Prélèvement,Représentation,ASSOCIATION DES PÊCHEURS CÔTIERS DES ÎLES-DE-LA-MADELEINE,Cap-aux-Meules
+10,1-Prélèvement,Représentation,ASSOCIATION DES PÊCHEURS D'ANGUILLES DU QUÉBEC,Rivière-Ouelle
+11,1-Prélèvement,Représentation,ASSOCIATION DES PÊCHEURS DE CRABE DE LA ZONE 17,Rimouski
+12,1-Prélèvement,Représentation,Association des pêcheurs de la Basse-Côte-Nord (APBCN),Gros-Mécatina
+13,1-Prélèvement,Représentation,Association des Pêcheurs de la MRC de Pabok,Pabos Mills
+14,1-Prélèvement,Représentation,ASSOCIATION DES PÊCHEURS DE LES MECHINS INC.,Les Méchins
+15,1-Prélèvement,Représentation,ASSOCIATION DES PÊCHEURS DE PÉTONCLES DES ILES-DE-LA-MADELEINE,Cap-aux-Meules
+16,1-Prélèvement,Représentation,Association des pêcheurs de sébastes des Îles,Cap-aux-Meules
+17,1-Prélèvement,Représentation,ASSOCIATION DES PÊCHEURS DE TÊTE À LA BALEINE,Tête-à-la-Baleine
+18,1-Prélèvement,Représentation,Association des pêcheurs professionnels de la Côte-Nord,Sept-Îles
+19,1-Prélèvement,Représentation,Association des pêcheurs propriétaires des Îles-de-la-Madeleine (APPIM),Cap-aux-Meules
+20,1-Prélèvement,Représentation,Associations des Pêcheurs côtiers de St-Godefroi,Saint-Godefroi
+21,1-Prélèvement,Représentation,Coopérative des pêcheurs des Îles-de-la-Madeleine,Havre-aux-Maisons
+22,1-Prélèvement,Représentation,Coopérative des pêcheurs de Cap Dauphin,Grosse-Île-Nord
+23,1-Prélèvement,Représentation,Fédération des pêcheu﻿rs semi-hauturiers du Québec (FPSHQ),Gaspé
+24,1-Prélèvement,Représentation,Association des pêcheurs du havre polyvalent de Sainte-Anne-des-Monts inc.,Sainte-Anne-des-Monts
+25,1-Prélèvement,Représentation,Office des pêcheurs de crevettes de la Ville de Gaspé,Gaspé
+26,1-Prélèvement,Représentation,Office des pêcheurs de crevettes du Québec,Gaspé
+27,1-Prélèvement,Représentation,Rassemblement des Pêcheurs et Pêcheuses des Côtes des Îles (RPPCI),Cap-aux-Meules
+28,1-Prélèvement,Représentation,Regroupement des mariculteurs du Québec (RMQ),Havre-aux-Maisons
+29,1-Prélèvement,Représentation,Regroupement des pêcheurs professionnels de la Haute-et-Moyenne-Côte-Nord (RPPHMCN),Sept-Îles
+30,1-Prélèvement,Représentation,Regroupement des pêcheurs professionnels du nord de la Gaspésie (RPPNG),
+31,1-Prélèvement,Représentation,Regroupement des pêcheurs professionnels du sud de la Gaspésie (RPPSG),Chandler
+32,1-Prélèvement,Aquaculture,Moules de culture des Îles inc.,L’Étang-du-Nord
+33,1-Prélèvement,Aquaculture,Moules de culture des Îles inc.,L’Étang-du-Nord
+34,1-Prélèvement,Aquaculture,Les Cultures du Large,Havre-aux-Maisons
+35,1-Prélèvement,Aquaculture,Les Cultures du Large,Havre-aux-Maisons
+36,1-Prélèvement,Aquaculture,Les Huîtres Old Harry inc.,Old Harry
+37,1-Prélèvement,Aquaculture,Ferme maricole du Grand Large - 9177-4653 Québec inc.,Carleton-sur-mer
+38,1-Prélèvement,Aquaculture,Corail Saint-Laurent (Gaston Bérubé) - 9165-5837 QUEBEC INC.   ,Sainte-Luce
+39,1-Prélèvement,Aquaculture,Les Caviars R.S. - 2953-2462 Québec inc.,Saint-Fabien 
+40,1-Prélèvement,Aquaculture,Ferme de développement maricole Nord-Sud inc.,Saint-Maxime-du-Mont-Louis
+41,1-Prélèvement,Aquaculture,Listuguj Mi'gmaq First Nation Council,Listuguj
+42,1-Prélèvement,Aquaculture,Les moules de la baie de Gaspé inc.,Gaspé
+43,1-Prélèvement,Aquaculture,Association de gestion halieutique autochtone Mi'gmaq et Walastoqey (AGHAMW),Gesgapegiag
+44,1-Prélèvement,Aquaculture,Huîtres Baie des Chaleurs inc.,
+45,1-Prélèvement,Aquaculture,Huîtres Baie des Chaleurs inc.,
+46,1-Prélèvement,Aquaculture,MERINOV,Gaspé
+47,1-Prélèvement,Aquaculture,Pétoncles Carleton inc.,Carleton-sur-mer
+48,1-Prélèvement,Aquaculture,BRIÈRE, Rimouski
+49,1-Prélèvement,Aquaculture,ALAMER inc.,
+50,1-Prélèvement,Aquaculture,Belles-Amours inc.,Lourdes-de-Blanc-Sablon
+51,1-Prélèvement,Aquaculture,Salmon Bay Farm,Rivière-Saint-Paul
+52,1-Prélèvement,Aquaculture,Pec-Nord inc.,Blanc-Sablon
+53,1-Prélèvement,Aquaculture,La ferme maricole Purmer inc.,Sept-Îles
+54,1-Prélèvement,Aquaculture,Ferme ostéricole Manowin inc.,Anse-aux-fraises
+55,1-Prélèvement,Aquaculture,Poissonnerie Carleton,Carleton-sur-mer
+56,1-Prélèvement,Aquaculture,Conserverie de l'Île d'Entrée (Olivier Renaud),Île d'Entrée
+57,1-Prélèvement,Aquaculture,Conserverie de l'Île d'Entrée (Olivier Renaud),Île d'Entrée
+58,1-Prélèvement,Aquaculture,Grande-Entrée mariculture inc.,Havre-aux-Maisons
+59,1-Prélèvement,Aquaculture,R-D Mytis,Mont-Joli 
+60,1-Prélèvement,Aquaculture,Pro-Algue marine,Rimouski
+61,2-Transformation,Aquaculture,Pro-Algue marine,Rimouski
+62,3-Distribution,Aquaculture,Pro-Algue marine,Rimouski
+63,2-Transformation,Usine,Gestion Danfran inc.,Paspébiac
+64,3-Distribution,Poissonnerie,Poissonnerie Carleton,Carleton-sur-mer
+65,2-Transformation,Poissonnerie,Corail Saint-Laurent (Gaston Bérubé) - 9165-5837 QUEBEC INC.   ,Sainte-Luce
+66,3-Distribution,Poissonnerie,Corail Saint-Laurent (Gaston Bérubé) - 9165-5837 QUEBEC INC.   ,Sainte-Luce
+67,2-Transformation,Poissonnerie,Le Fumoir d'Antan - 9073-0029 QUEBEC INC.,Havre-aux-Maisons
+68,3-Distribution,Poissonnerie,Le Fumoir d'Antan - 9073-0029 QUEBEC INC.,Havre-aux-Maisons
+69,3-Distribution,Poissonnerie,Le Fumoir d'Antan - 9073-0029 QUEBEC INC.,Havre-aux-Maisons
+70,2-Transformation,Poissonnerie,Raymer mariculture - 9132-1810 QUEBEC INC.,New Richmond
+71,3-Distribution,Poissonnerie,Raymer mariculture - 9132-1810 QUEBEC INC.,New Richmond
+72,3-Distribution,Poissonnerie,Raymer mariculture - 9132-1810 QUEBEC INC.,New Richmond
+73,2-Transformation,Conditionnement minimal pour vente en gros,Servab - 9140-3295 QUEBEC INC.,New Richmond
+74,2-Transformation,Poissonnerie,ATKINS ET FRERES INC.,Saint-Maxime-du-Mont-Louis
+75,3-Distribution,Poissonnerie,ATKINS ET FRERES INC.,Saint-Maxime-du-Mont-Louis
+76,3-Distribution,Poissonnerie,ATKINS ET FRERES INC.,Saint-Maxime-du-Mont-Louis
+77,2-Transformation,Usine,Coopérative des pêcheurs de Cap Dauphin,Grosse-île
+78,2-Transformation,Conditionnement minimal pour vente en gros,CRUSTACES DE MALBAIE INC.,Percé
+79,2-Transformation,Usine,CRUSTACES G. ROUSSY INC.,Port-Daniel-Gascons
+80,2-Transformation,Usine,CUSIMER (1991) INC.,Saint-Maxime-du-Mont-Louis
+81,2-Transformation,Usine,E. GAGNON ET FILS LTEE,Sainte-Thérèse-de-Gaspé
+82,2-Transformation,Usine,E. GAGNON ET FILS LTEE,Sainte-Thérèse-de-Gaspé
+83,2-Transformation,Usine,E. GAGNON ET FILS LTEE,Shigawake
+84,2-Transformation,Usine,E. GAGNON ET FILS LTEE,Shigawake
+85,2-Transformation,Usine,FUMOIR ARTISANAL SHOP À SAUMON SAINT-OMER INC.,Carleton-sur-mer
+86,3-Distribution,Poissonnerie,FUMOIR ARTISANAL SHOP À SAUMON SAINT-OMER INC.,Carleton-sur-mer
+87,3-Distribution,Poissonnerie,FUMOIR ARTISANAL SHOP À SAUMON SAINT-OMER INC.,Carleton-sur-mer
+88,2-Transformation,Poissonnerie,FUMOIR MONSIEUR EMILE INC.,Percé
+89,3-Distribution,Poissonnerie,FUMOIR MONSIEUR EMILE INC.,Percé
+90,3-Distribution,Poissonnerie,FUMOIR MONSIEUR EMILE INC.,Percé
+91,2-Transformation,Poissonnerie,LA BOULANGERIE REGIONALE DES ILES INC.,La Vernière
+92,2-Transformation,Usine,LA CREVETTE DU NORD ATLANTIQUE INC.,Gaspé
+93,2-Transformation,Usine,LA CREVETTE DU NORD ATLANTIQUE INC.,Gaspé
+94,2-Transformation,Usine,LELIEVRE LELIEVRE ET LEMOIGNAN LTEE,Sainte-Thérèse-de-Gaspé
+95,2-Transformation,Usine,LE PATERNEL INC.,Percé
+96,3-Distribution,Poissonnerie,LE PATERNEL INC.,Percé
+97,3-Distribution,Poissonnerie,LE PATERNEL INC.,Percé
+98,2-Transformation,Usine,LES CRUSTACES DES MONTS INC.,Sainte-Anne-des-Monts
+99,2-Transformation,Conditionnement minimal pour vente en gros,LES DISTRIBUTIONS J.M. BERNATCHEZ INC.,Grande-Rivière
+100,2-Transformation,Usine,LES FRUITS DE MER MADELEINE INC.,L'Étang-du-Nord
+101,2-Transformation,Usine,LES FRUITS DE MER MADELEINE INC.,L'Étang-du-Nord
+102,2-Transformation,Poissonnerie,LES PECHERIES GASPESIENNES INC.,Gaspé
+103,3-Distribution,Poissonnerie,LES PECHERIES GASPESIENNES INC.,Gaspé
+104,3-Distribution,Poissonnerie,LES PECHERIES GASPESIENNES INC.,Gaspé
+105,2-Transformation,Poissonnerie,LES PECHERIES GASPESIENNES INC.,Gaspé
+106,3-Distribution,Poissonnerie,LES PECHERIES GASPESIENNES INC.,Gaspé
+107,3-Distribution,Poissonnerie,LES PECHERIES GASPESIENNES INC.,Gaspé
+108,2-Transformation,Usine,LES PECHERIES MARINARD LTEE,Gaspé
+109,2-Transformation,Poissonnerie,MARCHE BLAIS INC.,Chandler
+110,3-Distribution,Poissonnerie,MARCHE BLAIS INC.,Chandler
+111,3-Distribution,Poissonnerie,MARCHE BLAIS INC.,Chandler
+112,2-Transformation,Usine,MENU-MER LTEE,Gaspé
+113,2-Transformation,Usine,PECHERIES LEOMAR INC,Grande-Entrée
+114,2-Transformation,Usine,PECHERIES LEOMAR INC,Grande-Entrée
+115,2-Transformation,Usine,PECHERIES LEOMAR INC,Grande-Entrée
+116,2-Transformation,Usine,Cuisimer (1991) Inc.,Saint-Maxime-du-Mont-Louis
+117,2-Transformation,Usine,POISSONNERIE BLANCHETTE INC.,Sainte-Anne-des-Monts
+118,2-Transformation,Usine,POISSONNERIE DE CLORIDORME INC.,Cloridorme
+119,3-Distribution,Poissonnerie,POISSONNERIE DE CLORIDORME INC.,Cloridorme
+120,3-Distribution,Poissonnerie,Poissonnerie Marché le Rouge,Cloridorme
+121,2-Transformation,Poissonnerie,POISSONNERIE LA COQUILLE INC.,Caplan
+122,3-Distribution,Poissonnerie,POISSONNERIE LA COQUILLE INC.,Caplan
+123,3-Distribution,Poissonnerie,POISSONNERIE LA COQUILLE INC.,Caplan
+124,2-Transformation,Usine,POISSON SALE GASPESIEN LTEE,Grande-Rivière
+125,3-Distribution,Poissonnerie,POISSON SALE GASPESIEN LTEE,Grande-Rivière
+126,2-Transformation,Usine,POISSON SALE GASPESIEN LTEE,Grande-Rivière
+127,2-Transformation,Usine,POISSONS FRAIS DES ILES INC.,L'Anse-à-la-Cabane
+128,2-Transformation,Usine,Fumoir Cascapédia,Cascapédia-Saint-Jules
+129,2-Transformation,Usine,UNIPECHE M.D.M. LTEE,Paspébiac
+130,3-Distribution,Poissonnerie,UNIPECHE M.D.M. LTEE,Paspébiac
+131,2-Transformation,Poissonnerie,Poissonnerie chez Omer - 135734 CANADA LTEE- 9000-2726 QUEBEC INC.,Sept-Îles
+132,3-Distribution,Poissonnerie,Poissonnerie chez Omer - 135734 CANADA LTEE- 9000-2726 QUEBEC INC.,Sept-Îles
+133,3-Distribution,Poissonnerie,Poissonnerie chez Omer - 135734 CANADA LTEE- 9000-2726 QUEBEC INC.,Sept-Îles
+134,2-Transformation,Usine,I & S Seafood - 9036-4514 QUEBEC INC.,Rivière-Saint-Paul
+135,2-Transformation,Usine,COOPERATIVE COMMUNAUTAIRE DE FRUITS DE MER DE LA BASSE COTE-NORD,Harrington Harbour
+136,2-Transformation,Usine,CRUSTACES BAIE-TRINITE INC.,Baie-Trinité
+137,2-Transformation,Usine,FERMES BELLES-AMOURS INC.,Lourdes-de-Blanc-Sablon
+138,2-Transformation,Usine,GROUPE UMEK,Sept-Îles
+139,2-Transformation,Usine,GROUPE UMEK,Sept-Îles
+140,2-Transformation,Usine,LES CRABIERS DU NORD INC.,Portneuf-sur-Mer
+141,2-Transformation,Usine,LES CRABIERS DU NORD INC.,Portneuf-sur-Mer
+142,2-Transformation,Poissonnerie,Poissonnerie Soucy,Sept-Îles
+143,3-Distribution,Poissonnerie,Poissonnerie Soucy,Sept-Îles
+144,3-Distribution,Poissonnerie,Poissonnerie Soucy,Sept-Îles
+145,2-Transformation,Poissonnerie,POISSONNERIE DU HAVRE LTEE,Havre-Saint-Pierre
+146,3-Distribution,Poissonnerie,POISSONNERIE DU HAVRE LTEE,Havre-Saint-Pierre
+147,3-Distribution,Poissonnerie,POISSONNERIE DU HAVRE LTEE,Havre-Saint-Pierre
+148,2-Transformation,Poissonnerie,POISSONNERIE FORTIER ET FRERES INC.,Sept-Îles
+149,3-Distribution,Poissonnerie,POISSONNERIE FORTIER ET FRERES INC.,Sept-Îles
+150,3-Distribution,Poissonnerie,POISSONNERIE FORTIER ET FRERES INC.,Sept-Îles
+151,2-Transformation,Poissonnerie,POISSONNERIE JEAN-GUY LAPRISE INC.,Chute-aux-Outardes
+152,3-Distribution,Poissonnerie,POISSONNERIE JEAN-GUY LAPRISE INC.,Chute-aux-Outardes
+153,3-Distribution,Poissonnerie,POISSONNERIE JEAN-GUY LAPRISE INC.,Chute-aux-Outardes
+154,2-Transformation,Usine,"POSEIDON ""LES POISSONS ET CRUSTACES"" INC.",Longue-Pointe-de-Mingan
+155,2-Transformation,Usine,Pêcheries de l'Estuaire - 9165-5837 QUEBEC INC.,Rimouski
+156,3-Distribution,Poissonnerie,Pêcheries de l'Estuaire - 9165-5837 QUEBEC INC.,Rimouski
+157,2-Transformation,Recherche et développement,CENTRE DE DEVELOPPEMENT BIOALIMENTAIRE DU QUEBEC INC.,La Pocatière
+158,2-Transformation,Usine,Pole-O-Bic (Charcuterie la Bicoise),Saint-Fabien 
+159,2-Transformation,Usine,Pole-O-Bic (Charcuterie la Bicoise),Rimouski
+160,2-Transformation,Usine,CHASSE-MARÉE INC.,Rimouski
+161,2-Transformation,Usine,CHASSE-MARÉE INC.,Rimouski
+162,2-Transformation,Conditionnement minimal pour vente en gros,DMB DISTRIBUTION ALIMENTAIRE ,Rimouski
+163,2-Transformation,Usine,GASPE-SALAISONS INC.,Les Méchins
+164,2-Transformation,Usine,LA FUMERIE DE L'EST INC.,Saint-Narcisse-de-Rimouski
+165,2-Transformation,Usine,LES FUMOIRS MOUSKI INC.,Saint-Donat
+166,2-Transformation,Poissonnerie,LES FUMOIRS RAOUL ROUX LTEE,Matane
+167,3-Distribution,Poissonnerie,LES FUMOIRS RAOUL ROUX LTEE,Matane
+168,3-Distribution,Poissonnerie,LES FUMOIRS RAOUL ROUX LTEE,Matane
+169,2-Transformation,Poissonnerie,LES PECHERIES OUELLET INC.,Kamouraska
+170,2-Transformation,Usine,DISTRIBUTION COTE-NORD INC.,Baie-Comeau
+171,2-Transformation,Poissonnerie,Poissonnerie Verseau II,Trois-Pistoles
+172,3-Distribution,Poissonnerie,Poissonnerie Verseau II,Trois-Pistoles
+173,3-Distribution,Poissonnerie,Poissonnerie Verseau II,Trois-Pistoles
+174,2-Transformation,Valorisation des coproduits,CaCO3 Biotech,Gaspé 
+175,2-Transformation,Valorisation des coproduits,BioNord,Forestville
+176,3-Distribution,Grossiste,DISTRIBUTION COTE-NORD INC.,Baie-Comeau
+177,3-Distribution,Grossiste,Pêcherie Manicouagan,Baie-Comeau
+178,3-Distribution,Grossiste,Transport Gesco (La Crevette du Nord Atlantique),Gaspé
+179,3-Distribution,Grossiste,E. Gagnon & Fils Ltée (Gaspé Shore),Sainte-Thérèse-de-Gaspé
+180,3-Distribution,Grossiste,Distributions J.M. Bernatchez,Grande-Rivière
+181,3-Distribution,Grossiste,Pêcheries M.C. Gaspésie,Saint-Georges-de-Malbaie
+182,3-Distribution,Grossiste,Crustacés G. Roussy ,Port-Daniel-Gascons
+183,3-Distribution,Grossiste,Servab,New Richmond
+184,3-Distribution,Grossiste,CARREFOUR LA BAIE,Sept-Îles
+185,3-Distribution,Grossiste,2633-5166 QUÉBEC INC.,Les Escoumins 
+186,3-Distribution,Grossiste,POISSONNERIE FORTIER ET FRÈRES INC.,Ekuanitshit - Mingan
+187,3-Distribution,Grossiste,LES CRUSTACÉS DE GASPÉ LTÉE,Grande-Rivière
+188,3-Distribution,Grossiste,2953-2462 QUÉBEC INC. (Caviar H.R.),Saint-Fabien 
+189,3-Distribution,Grossiste,GASPÉ CURED,Gaspé 
+190,3-Distribution,Grossiste,DÉLIMER INC.,Havre-Aubert
+191,3-Distribution,Grossiste,4234359 CANADA INC.,Havre-aux-Maisons
+192,3-Distribution,Grossiste,Pêcheries Chandler,Chandler
+193,3-Distribution,Grossiste,LES DISTRIBUTIONS ROUX,Matane 
+194,3-Distribution,Grossiste,LA FILLE DU PÊCHEUR INC.,Amqui
+195,3-Distribution,Grossiste,9465-2609 Québec inc.(Distribution Davids Sea),Chandler
+196,3-Distribution,Grossiste,LES DISTRIBUTIONS VINCENT MARQUIS INC.,Port-Cartier
+197,3-Distribution,Grossiste,NICO PÊCHES INTERNATIONAL INC.,Havre-Saint-Pierre 
+198,3-Distribution,Grossiste,Novacan Live Seafood Ltd,Grande-Entrée
+199,3-Distribution,Grossiste,LES FRUITS DE MER MADELEINE INC.,L'Étang-du-Nord
+200,3-Distribution,Grossiste,Distributhon,Grande-Rivière
+201,3-Distribution,Grossiste,MENU-MER LTEE,Gaspé
+202,3-Distribution,Grossiste,La Gamme Gaspésie–Îles-de-la-Madeleine,New Richmond
+203,3-Distribution,Grossiste,Pêcheries de l'Estuaire - 9165-5837 QUEBEC INC.,Rimouski
+204,3-Distribution,Grossiste,DMB DISTRIBUTION ALIMENTAIRE ,Rimouski
+205,3-Distribution,Grossiste,Groupe Colabor (NORREF),
+206,3-Distribution,Grossiste,Groupe Compass Canada,
+207,3-Distribution,Grossiste,Groupe Beaudry,
+208,3-Distribution,Grossiste,Sysco Canada (En Gros Pierre et Portico),
+209,3-Distribution,Grossiste,Gordon Service alimentaire (GFS),
+210,3-Distribution,Grossiste,Emmanuel Coulombe inc.,
+211,3-Distribution,Grossiste,Excel Prix, 
+212,3-Distribution,Grossiste,Loblaws inc.,
+213,3-Distribution,Grossiste,Mayrand Plus,
+214,3-Distribution,Grossiste,Metro Richelieu inc., 
+215,3-Distribution,Grossiste,Saputo inc.,
+216,3-Distribution,Grossiste,Sobeys inc.,
+217,3-Distribution,Transporteur,Transport Donahue,
+218,3-Distribution,Transporteur,Transport Gesco,
+219,1-Prélèvement,Services professionnels et techniques,Centre de Sécurité Marine,Gaspé
+220,1-Prélèvement,Services professionnels et techniques,Les Industries Fipec,Hope Town
+221,1-Prélèvement,Services professionnels et techniques,Agrès de Pêche ACPG Inc.,Gaspé
+222,1-Prélèvement,Services professionnels et techniques,Les Agrès de pêches commerciales le Marin Inc,Sept-îles
+223,1-Prélèvement,Services professionnels et techniques,Protection Garvex,Nouvelle
+224,1-Prélèvement,Services professionnels et techniques,Soudure Jones,
+225,1-Prélèvement,Services professionnels et techniques,Soudure Beaudin,
+226,1-Prélèvement,Services professionnels et techniques,Concept Metal Plus,
+227,1-Prélèvement,Services professionnels et techniques,Soudure André Langlais,
+228,1-Prélèvement,Services professionnels et techniques,Soudure René Gagnon,
+229,1-Prélèvement,Services professionnels et techniques,Électro-Démarreur,
+230,1-Prélèvement,Services professionnels et techniques,Infomarine (Les Entreprises Luc Mourant) (concessionnaire Mackay Marine),
+231,1-Prélèvement,Services professionnels et techniques,Marinexpert Plus,
+232,1-Prélèvement,Services professionnels et techniques,Marinexpert Plus,
+233,1-Prélèvement,Services professionnels et techniques,Devocean,
+234,1-Prélèvement,Services professionnels et techniques,Les industries Filmar,
+235,1-Prélèvement,Services professionnels et techniques,OpDaq Systèmes,
+236,1-Prélèvement,Services professionnels et techniques,M – Expertise Marine,
+237,1-Prélèvement,Services professionnels et techniques,Centre de Sécurité Marine,
+238,1-Prélèvement,Services professionnels et techniques,Arctus,
+239,1-Prélèvement,Services professionnels et techniques,Denis Servant Expert et Consultant Maritime,
+240,1-Prélèvement,Services professionnels et techniques,Bleu marine services enr.,Rimouski
+241,1-Prélèvement,Services professionnels et techniques,Navanex,Gaspé
+242,1-Prélèvement,Services professionnels et techniques,SPY Maritime Consultants,Rimouski
+243,1-Prélèvement,Services professionnels et techniques,SMS Tourelle,
+244,1-Prélèvement,Services professionnels et techniques,Atelier d’Usinage Gaspé Machine Work,
+245,1-Prélèvement,Services professionnels et techniques,Les Bateaux en Aluminium Drody,
+246,1-Prélèvement,Services professionnels et techniques,Océan Marine,
+247,1-Prélèvement,Services professionnels et techniques,Chantier MM (Atelier de Soudure Gilles Aspirault),Rivière-au-Renard
+248,1-Prélèvement,Services professionnels et techniques,Chantier Davie Canada,
+249,1-Prélèvement,Services professionnels et techniques,Groupe Océan,Québec
+250,1-Prélèvement,Services professionnels et techniques,Groupe Océan,Québec
+251,1-Prélèvement,Services professionnels et techniques,Chantier Naval G.F.F.M. Leclerc,L'Isle-aux-Coudres
+252,1-Prélèvement,Services professionnels et techniques,Méridien Maritime,Matane
+253,1-Prélèvement,Services professionnels et techniques,Entreprises Léo LeBlanc et Fils Inc.,Cap-aux-Meules
+254,1-Prélèvement,Services professionnels et techniques,Chantier Naval Forillon Inc./Navanex,
+255,1-Prélèvement,Services professionnels et techniques,Conception Navale FMP Inc.,
+256,1-Prélèvement,Services professionnels et techniques,Gaspésie Diesel,
+257,1-Prélèvement,Services professionnels et techniques,Kémer,
+258,1-Prélèvement,Services professionnels et techniques,Remorqueurs Huard,
+259,1-Prélèvement,Représentation,Comité sectoriel de main d'œuvre de l'industrie maritime,
+260,3-Distribution,Transporteur,Servab,
+261,2-Transformation,Services professionnels et techniques,Distribution Leblanc,
+262,2-Transformation,Services professionnels et techniques,San'Hy Pro,
+263,2-Transformation,Services professionnels et techniques,Produits Sanitaires Cloutier,
+264,2-Transformation,Services professionnels et techniques,Réfrigération Gaspésie,
+265,2-Transformation,Services professionnels et techniques,Concept Metal Plus,
+266,2-Transformation,Services professionnels et techniques,Protection Garvex,
+267,1-Prélèvement,Services professionnels et techniques,SMS Tourelle,
+268,1-Prélèvement,Recherche et développement,MERINOV,
+269,1-Prélèvement,Bailleurs de fonds,SODIM,
+270,1-Prélèvement,Gestion portuaire,Administration Portuaire de Baie-Comeau,Baie-Comeau
+271,1-Prélèvement,Gestion portuaire,Administration portuaire de la Tabatière et la Baie des Moutons,Gros-Mécatina
+272,1-Prélèvement,Gestion portuaire,Administration Portuaire de Baie-Trinité,Baie-Trinité
+273,1-Prélèvement,Gestion portuaire,Administration portuaire de l'Est de la Basse-Côte-Nord,Blanc-Sablon
+274,1-Prélèvement,Gestion portuaire,Administration Portuaire de Bonaventure,Bonaventure
+275,1-Prélèvement,Gestion portuaire,Administration Portuaire du Havre Polyvalent de Cap-aux-Meules, Cap-aux-Meules
+276,1-Prélèvement,Gestion portuaire,Administration Portuaire de Cap-Chat / Les Méchins, Les Méchins
+277,1-Prélèvement,Gestion portuaire,Administration Portuaire de Carleton-sur-Mer,Carleton-sur-mer
+278,1-Prélèvement,Gestion portuaire,Administration Portuaire de Cloridorme,Cloridorme
+279,1-Prélèvement,Gestion portuaire,Administration du Havre de Pêche de L'Etang-du-Nord,L'Étang-du-Nord
+280,1-Prélèvement,Gestion portuaire,Administration Portuaire de Gascons,Gascons
+281,1-Prélèvement,Gestion portuaire,Administration Portuaire Havre de Pêche de Grande-Entrée,Grande-Entrée
+282,1-Prélèvement,Gestion portuaire,Administration Portuaire de Grande-Rivière,Grande-Rivière
+283,1-Prélèvement,Gestion portuaire,Administration portuaire de Grosse-Île,Grosse-Île-Nord
+284,1-Prélèvement,Gestion portuaire,Administration portuaire de Harrington Harbour,Harrington Harbour
+285,1-Prélèvement,Gestion portuaire,Administration Portuaire de L'île du Havre-Aubert,Havre-Aubert
+286,1-Prélèvement,Gestion portuaire,Administration portuaire de l'île d'Entrée,Île-d'Entrée
+287,1-Prélèvement,Gestion portuaire,Administration portuaire de Kegaska et Wolf Bay,Kegaska
+288,1-Prélèvement,Gestion portuaire,Administration Portuaire de L'Anse-à-Beaufils,Percé
+289,1-Prélèvement,Gestion portuaire,Administration Portuaire de L'Anse-à-Brillant et St-Georges-de-Malbaie, Saint-Georges-de-Malbaie
+290,1-Prélèvement,Gestion portuaire,Administration Portuaire de Les Escoumins,Les Escoumins
+291,1-Prélèvement,Gestion portuaire,Administration Portuaire du Havre de Pêche de Matane,Matane
+292,1-Prélèvement,Gestion portuaire,Administration Portuaire de Mingan,Longue-Pointe-de-Mingan
+293,1-Prélèvement,Gestion portuaire,Administration Portuaire de Newport,Newport
+294,1-Prélèvement,Gestion portuaire,Administration Portuaire de Paspebiac,Paspébiac
+295,1-Prélèvement,Gestion portuaire,Administration Portuaire de Pointe-Basse et Pointe-aux-Loups,Havre-aux-maisons
+296,1-Prélèvement,Gestion portuaire,Administration Portuaire de Port-Daniel,Port-Daniel-Gascons
+297,1-Prélèvement,Gestion portuaire,Administration Portuaire de Rivière-au-Tonnerre,Rivière-au-Tonnerre
+298,1-Prélèvement,Gestion portuaire,Administration portuaire de Rivière-au-Renard,Gaspé
+299,1-Prélèvement,Gestion portuaire,Comité de Gestion du Havre de Pêche de Sept-Iles,Sept-îles
+300,1-Prélèvement,Gestion portuaire,Administration portuaire de Shigawake,Shigawake
+301,1-Prélèvement,Gestion portuaire,Administration Portuaire du Havre de Pêche de Saint-Godefroi,Saint-Godefroi
+302,1-Prélèvement,Gestion portuaire,Administration Portuaire du Havre Polyvanent de Ste-Anne-des-Monts,Sainte-Anne-des-Monts
+303,1-Prélèvement,Gestion portuaire,Administration Portuaire de Ste-Thérèse-de-Gaspé,Sainte-Thérèse-de-Gaspé
+304,1-Prélèvement,Gestion portuaire,Administration portuaire de Tourelle,Sainte-Anne-des-Monts
+305,1-Prélèvement,Gestion portuaire,Administration portuaire de l'Anse-à-Valleau,Gaspé
+306,1-Prélèvement,Gestion portuaire,Administration Portuaire de Rivière-Madeleine,Havre-aux-Maisons
+307,1-Prélèvement,Sécurité maritime,Garde côtière canadienne (GCC),Ottawa
+308,1-Prélèvement,Recherche et développement,MPO - Secteur des sciences des Écosystèmes et des océans,Ottawa
+309,1-Prélèvement,Gestion portuaire,MPO - Secteur de la Gestion des pêches et des ports,Ottawa
+310,1-Prélèvement,Réglementation,MPO - Direction générale régionale (DGR) du Québec,Québec
+311,1-Prélèvement,Réglementation,MPO - Direction régionale de la gestion des pêches,Québec
+312,1-Prélèvement,Recherche et développement,MPO - Direction régionale de la gestion des écosystèmes,Mont-Joli
+313,1-Prélèvement,Recherche et développement,MPO - Direction régionale des sciences (Institut Maurice-Lamontagne),Mont-Joli
+314,1-Prélèvement,Gestion portuaire,MPO - Direction régionale des ports pour petits bateaux,Québec
+315,1-Prélèvement,Réglementation,MPO - Direction régionale de la conservation et protection,Québec
+316,1-Prélèvement,Bailleur de fonds,MPO - Direction du Fonds des pêches du Québec,
+317,1-Prélèvement,Réglementation,MPO - Secteur Îles-de-la-Madeleine,Cap-aux-Meules
+318,1-Prélèvement,Réglementation,MPO - Secteur Côte-Nord ,Sept-Îles
+319,1-Prélèvement,Réglementation,MPO - Gestion des pêches Hâvre-Saint-Pierre,Havre-Saint-Pierre
+320,1-Prélèvement,Réglementation,MPO - Gestion des pêches Baie-Comeau,Baie-Comeau
+321,1-Prélèvement,Réglementation,MPO - Gestion des pêches Blanc-Sablon,Blanc-Sablon
+322,1-Prélèvement,Réglementation,MPO - Secteur Gaspésie–Bas-Saint-Laurent,Gaspé
+323,1-Prélèvement,Réglementation,MPO - Gestion des pêches Grande-Rivière,Grande-Rivière
+324,1-Prélèvement,Réglementation,MPO - Gestion des pêches Sainte-Anne-des-Monts,Sainte-Anne-des-Monts
+325,1-Prélèvement,Réglementation,Biorex,Gaspé
+326,1-Prélèvement,Réglementation,Kemer 2000 inc.,Gaspé
+327,1-Prélèvement,Réglementation,Res-Mar Inc.,Gaspé
+328,1-Prélèvement,Réglementation,Transport Canada - Division Sécurité maritime,Sept-Îles
+329,1-Prélèvement,Réglementation,Transport Canada - Division Sécurité maritime,Cap-aux-Meules
+330,1-Prélèvement,Réglementation,Transport Canada - Division Sécurité maritime,Rimouski
+331,1-Prélèvement,Enquête,Bureau de la sécurité des transports du Canada,Gatineau
+332,1-Prélèvement,Réglementation,MAPAQ - Direction des Analyses et politiques des pêches et de l'aquaculture (DAPPA),
+333,1-Prélèvement,Réglementation,MAPAQ- Direction régionale Gaspésie-Bas-Saint-Laurent,Gaspé
+334,1-Prélèvement,Réglementation,MAPAQ- Direction régionale des îles-de-la-Madeleine,Gaspé
+335,1-Prélèvement,Réglementation,MAPAQ - Direction régionale de la Côte-Nord ,Sept-Îles
+336,2-Transformation,Réglementation,Agence d'Inspection des Aliments (ACIA),
+337,3-Distribution,Réglementation,Agence d'Inspection des Aliments (ACIA),
+338,1-Prélèvement,Sécurité maritime,Centre d'expertise en gestion des risques d'incidents maritimes (CEGRIM),Cap-aux-Meules
+339,2-Transformation,Réglementation,MAPAQ - Direction des Analyses et politiques des pêches et de l'aquaculture (DAPPA),
+340,2-Transformation,Réglementation,MAPAQ- Direction régionale Gaspésie-Bas-Saint-Laurent,Gaspé
+341,2-Transformation,Réglementation,MAPAQ- Direction régionale des îles-de-la-Madeleine,Gaspé
+342,2-Transformation,Réglementation,MAPAQ - Direction régionale de la Côte-Nord ,Sept-Îles
+343,3-Distribution,Réglementation,MAPAQ - Direction des Analyses et politiques des pêches et de l'aquaculture (DAPPA),
+344,3-Distribution,Réglementation,MAPAQ- Direction régionale Gaspésie-Bas-Saint-Laurent,Gaspé
+345,3-Distribution,Réglementation,MAPAQ- Direction régionale des îles-de-la-Madeleine,Gaspé
+346,3-Distribution,Réglementation,MAPAQ - Direction régionale de la Côte-Nord ,Sept-Îles
+347,2-Transformation,Réglementation,Régie des marchés agricoles et alimentaires du Québec (RMAAQ),Saint-Romuald
+348,3-Distribution,Réglementation,Régie des marchés agricoles et alimentaires du Québec (RMAAQ),Saint-Romuald
+349,1-Prélèvement,Réglementation,CNESST (ministère du travail),
+350,2-Transformation,Réglementation,CNESST (ministère du travail),
+351,3-Distribution,Réglementation,CNESST (ministère du travail),
+352,1-Prélèvement,Certification,Bureau d’accréditation des pêcheurs et des aides-pêcheurs du Québec (BAPAQ),Grande-Rivière
+353,3-Distribution,Recherche et développement,InnoVactiv,Rimouski
+354,2-Transformation,Recherche et développement,InnoVactiv,Rimouski
+355,2-Transformation,Recherche et développement,Ocean NutraSciences,Matane
+356,3-Distribution,Recherche et développement,Iso-Biokem,Rimouski
+357,2-Transformation,Recherche et développement,Iso-Biokem,Rimouski
+358,1-Prélèvement,Recherche et développement,Iso-Biokem,Rimouski
+359,1-Prélèvement,Recherche et développement,Centre de recherche sur le développement territorial (CRDT),Rimouski
+360,2-Transformation,Recherche et développement,Centre de recherche sur le développement territorial (CRDT),Rimouski
+361,3-Distribution,Recherche et développement,Centre de recherche sur le développement territorial (CRDT),Rimouski
+362,1-Prélèvement,Recherche et développement,Institut nordique du Québec (INQ),Québec
+363,1-Prélèvement,Recherche et développement,Chaire en éducation transformatrice pour l'engagement climatique,Rimouski
+364,1-Prélèvement,Recherche et développement,Institut des sciences de la mer (ISMER),
+365,1-Prélèvement,Recherche et développement,Unité départementale de la gestion des ressources maritimes,
+366,1-Prélèvement,Recherche et développement,Centre d'études nordiques (CEN),Québec
+367,1-Prélèvement,Recherche et développement,Centre d'études nordiques (CEN),Rimouski
+368,1-Prélèvement,Recherche et développement,Institut de biologie intégrative et des systèmes (IBIS),
+369,2-Transformation,Recherche et développement,Institut sur la nutrition et les aliments fonctionnels (INAF),Québec
+370,3-Distribution,Recherche et développement,Institut sur la nutrition et les aliments fonctionnels (INAF),Québec
+371,2-Transformation,Recherche et développement,Pôle bioalimentaire,Québec
+372,3-Distribution,Recherche et développement,Centre NUTRISS - Nutritionsanté et société,Québec
+373,3-Distribution,Recherche et développement,Observatoire de la qualité de l'offre alimentaire,Québec
+374,1-Prélèvement,Formation professionnelle,"École des pêches et de l'aquaculture du
+Québec (ÉPAQ)",Grande-Rivière
+375,2-Transformation,Recherche et développement,Cintech agroalimentaire,Saint-Hyacinthe
+376,2-Transformation,Recherche et développement,CIRADD, Carleton-sur-Mer
+377,1-Prélèvement,Formation professionnelle,Institut maritime du Québec (IMQ),Lévis
+378,1-Prélèvement,Recherche et développement,École de la mer de Ste-Luce (CSS des phares),Sainte-Luce
+379,1-Prélèvement,Recherche et développement,Centre d'éducation et de recherche de Sept-Îles,Sept-Îles
+380,1-Prélèvement,Recherche et développement,Biodôme de Montréal,
+381,1-Prélèvement,Recherche et développement,Arctus,Rimouski
+382,2-Transformation,Recherche et développement,GIMXPORT,Chandler
+383,3-Distribution,Recherche et développement,GIMXPORT,Chandler
+384,1-Prélèvement,Recherche et développement,Merinov,Gaspé
+385,1-Prélèvement,Recherche et développement,Merinov,Gaspé
+386,2-Transformation,Recherche et développement,Merinov,Gaspé
+387,1-Prélèvement,Recherche et développement,Comité permanent sur la sécurité des bateaux de pêche du Québec (CPSBPQ),
+388,1-Prélèvement,Recherche et développement,Centre de Recherche sur les Biotechnologies Marines (CRBM),Rimouski
+389,2-Transformation,Recherche et développement,Centre de Développement Bioalimentaire du Québec (CDBQ),
+390,2-Transformation,Recherche et développement,Consortium de Recherche et Innovations en Bioprocédés Industriels au Québec (CRIBIQ),Québec
+391,2-Transformation,Recherche et développement,Consortium de Recherche et Innovations en Bioprocédés Industriels au Québec (CRIBIQ),Québec
+392,1-Prélèvement,Recherche et développement,Centre de recherche sur les milieux insulaires et maritimes (CERMIM),Havre-aux-Maisons
+393,2-Transformation,Recherche et développement,Institut de tourisme et d'hôtellerie du Québec (ITHQ),Montréal
+394,3-Distribution,Recherche et développement,Institut de tourisme et d'hôtellerie du Québec (ITHQ),Montréal
+395,1-Prélèvement,Recherche et développement,Institut de recherche en économie contemporaine (IRÉC),Montréal
+396,2-Transformation,Recherche et développement,Institut de recherche en économie contemporaine (IRÉC),Montréal
+397,3-Distribution,Recherche et développement,Institut de recherche en économie contemporaine (IRÉC),Montréal
+398,1-Prélèvement,Recherche et développement,Innovation maritime,Rimouski
+399,2-Transformation,Recherche et développement,OrganicOcean,Rimouski
+400,2-Transformation,Recherche et développement,Centre de transfert technologique en écologie industrielle (CTTEI),Sorel-Tracy
+401,1-Prélèvement,Recherche et développement,Le Centre Interdisciplinaire de Développement en Cartographie des Océans (CIDCO),Rimouski
+402,1-Prélèvement,Recherche et développement,Le Centre Interdisciplinaire de Développement en Cartographie des Océans (CIDCO),Rimouski
+403,1-Prélèvement,Recherche et développement,M - Expertise Marine,Sainte-Luce
+404,1-Prélèvement,Recherche et développement,Pôle maritime du Saint-Laurent,Charny
+405,1-Prélèvement,Recherche et développement,Institut nordique de recherche en environnement et en santé au travail (INREST),Sept-Îles
+406,1-Prélèvement,Recherche et développement,Institut nordique de recherche en environnement et en santé au travail (INREST),Sept-Îles
+407,3-Distribution,Recherche et développement,Centre HUMAMI,
+408,1-Prélèvement,Recherche et développement,OGSL, Rimouski
+409,1-Prélèvement,Recherche et développement,Institut de recherche Robert-Sauvé en santé et en sécurité du travail (IRSST),
+410,2-Transformation,Recherche et développement,Institut de recherche Robert-Sauvé en santé et en sécurité du travail (IRSST),
+411,3-Distribution,Recherche et développement,Institut de recherche Robert-Sauvé en santé et en sécurité du travail (IRSST),
+412,2-Transformation,Recherche et développement,Biopterre,La Pocatière
+413,1-Prélèvement,Recherche et développement,GREMM,Tadoussac
+414,1-Prélèvement,Recherche et développement,Réseau Québec maritime (RQM),
+415,1-Prélèvement,Recherche et développement,Marine Environmental Observation Prediction and Response Network (MEOPAR),
+416,1-Prélèvement,Recherche et développement,Québec Océan,
+417,1-Prélèvement,Recherche et développement,Ressources aquatiques Québec (RAQ),
+418,1-Prélèvement,Recherche et développement,Institut France-Québec pour la coopération scientifique en appui au secteur maritime (IFQM),
+419,1-Prélèvement,Recherche et développement,REFORMAR,Rimouski
+420,3-Distribution,Sécurité alimentaire,La Cuisine collective de Trois-Pistoles « Croc-Ensemble »,Trois-Pistoles
+421,3-Distribution,Sécurité alimentaire,Moisson Kamouraska,La Pocatière
+422,3-Distribution,Sécurité alimentaire,Moisson Vallée Matapédia,Amqui
+423,3-Distribution,Sécurité alimentaire,Unité Domrémy de Mont-Joli inc. (Moisson Mitis),Mont-Joli 
+424,3-Distribution,Sécurité alimentaire,Moisson Rimouski-Neigette inc.,Rimouski
+425,3-Distribution,Sécurité alimentaire,La cuisine collective de la région de Matane,Matane
+426,3-Distribution,Sécurité alimentaire,Carrefour Solidaire Haute-Côte-Nord ,Les Escoumins
+427,3-Distribution,Sécurité alimentaire,"La popote roulante "" Les Délices Maison """,Les Bergeronnes
+428,3-Distribution,Sécurité alimentaire,Comptoir alimentaire de Sept-Îles,Sept-Îles
+429,3-Distribution,Sécurité alimentaire,Comptoir alimentaire l'Escale,Baie-Comeau
+430,3-Distribution,Sécurité alimentaire,Collectif Aliment-Terre,Paspébiac
+431,3-Distribution,Sécurité alimentaire,Collectif Aliment-Terre,Paspébiac
+432,3-Distribution,Sécurité alimentaire,Cuisine collective Îles-de-la-Madeleine,Cap-aux-Meules
+433,3-Distribution,Sécurité alimentaire,Entraide communautaire des Îles,Cap-aux-Meules
+434,3-Distribution,Sécurité alimentaire,Partagence,Sainte-Anne-des-Monts
+435,3-Distribution,Sécurité alimentaire,Carrefour-Ressources,Sainte-Anne-des-Monts
+436,3-Distribution,Sécurité alimentaire,Source alimentaire Bonavignon,Maria
+437,3-Distribution,Sécurité alimentaire,Source alimentaire Bonavignon,Maria
+438,3-Distribution,Sécurité alimentaire,Accueil Blanche Goulet de Gaspé inc.,Gaspé
+439,3-Distribution,Sécurité alimentaire,Accueil Blanche Goulet de Gaspé inc.,Gaspé
+440,3-Distribution,Sécurité alimentaire,Produire la santé ensemble,Percé
+441,3-Distribution,Sécurité alimentaire,Le Garde-Manger,Grande-Rivière
+442,3-Distribution,Promotion,Aliments du Québec,Longueil
+443,3-Distribution,Promotion,Exploramer (Fourchette bleu),Sainte-Anne-des-Monts
+444,3-Distribution,Éducation,Exploramer (Fourchette bleu),Sainte-Anne-des-Monts
+445,3-Distribution,Sécurité alimentaire,Le Bon Goût Frais des Îles-de-la-Madeleine,Cap-aux-Meules
+446,3-Distribution,Promotion,Le Bon Goût Frais des Îles-de-la-Madeleine,Cap-aux-Meules
+447,3-Distribution,Promotion,Saveurs du Bas-Saint-Laurent,Rimouski
+448,3-Distribution,Commercialisation,Saveurs du Bas-Saint-Laurent,Rimouski
+449,3-Distribution,Sécurité alimentaire,Table bioalimentaire Côte-Nord,Sept-Îles
+450,3-Distribution,Sécurité alimentaire,Table de concertation bioalimentaire du Bas-Saint-Laurent,Rimouski
+451,3-Distribution,Promotion,Gaspésie Gourmande,New Richmond
+452,3-Distribution,Sécurité alimentaire,Gaspésie Gourmande (Table de concertation bioalimentaire GÎM),New Richmond
+453,3-Distribution,Sécurité alimentaire,Récup-Alimentaire Haute-Gaspésie,Sainte-Anne-des-Monts
+454,3-Distribution,Sécurité alimentaire,Carrefour Ressources,Sainte-Anne-des-Monts
+455,3-Distribution,Sécurité alimentaire,Les Marchés Publics Gaspé,Gaspé
+456,3-Distribution,Sécurité alimentaire,Accueil Blanche-Goulet,Gaspé
+457,3-Distribution,Sécurité alimentaire,Nourrir notre monde,
+458,3-Distribution,Sécurité alimentaire,Nourrir notre monde,
+459,3-Distribution,Sécurité alimentaire,Coopérative du Cap,
+460,3-Distribution,Sécurité alimentaire,Équipe de développement social Îles-de-la-Madeleine,Cap-aux-Meules
+461,3-Distribution,Sécurité alimentaire,Cuisines collectives de Dégelis,Dégelis
+462,3-Distribution,Sécurité alimentaire,Cuisines collectives du Haut-Pays,Lac-des-Aigles
+463,3-Distribution,Sécurité alimentaire,Cuisines collectives de Cabano,Témiscouata-sur-le-Lac
+464,3-Distribution,Sécurité alimentaire,La petite bouffe des Frontières,Pohénégamook
+465,3-Distribution,Sécurité alimentaire,La petite bouffe des Frontières,Pohénégamook
+466,1-Prélèvement,Recherche et développement,Mange ton Saint-Laurent,
+467,2-Transformation,Recherche et développement,Mange ton Saint-Laurent,
+468,3-Distribution,Recherche et développement,Mange ton Saint-Laurent,
+469,3-Distribution,Éducation,Mange ton Saint-Laurent,
+470,3-Distribution,Promotion,Mange ton Saint-Laurent,
+471,3-Distribution,Sécurité alimentaire,La Tablée des Chefs,
+472,3-Distribution,Sécurité alimentaire,La Tablée des Chefs,
+473,3-Distribution,Bailleur de fonds,Droit à l'alimentation,
+474,1-Prélèvement,Gestion environnementale,Stratégies Saint-Laurent,Québec
+475,1-Prélèvement,Gestion environnementale,Comité ZIP des Îles-de-la-Madeleine,Cap-aux-Meules
+476,1-Prélèvement,Gestion environnementale,Comité ZIP Gaspésie,Bonaventure
+477,1-Prélèvement,Gestion environnementale,Comité ZIP Côte-Nord du Golfe,Sept-îles
+478,1-Prélèvement,Gestion environnementale,Comité ZIP du Sud-de-l'Estuaire,Rimouski
+479,1-Prélèvement,Gestion environnementale,Comité ZIP de la Rive Nord de l’Estuaire,Baie-Comeau
+480,1-Prélèvement,Gestion environnementale,Attention Fragîles (CRE),L'Étang-du-Nord
+481,1-Prélèvement,Gestion environnementale,Attention Fragîles (CRE),L'Étang-du-Nord
+482,1-Prélèvement,Gestion environnementale,CRE Gaspésie (CREG),Bonaventure
+483,1-Prélèvement,Gestion environnementale,Environnement Côte-Nord (CRE),Sept-îles
+484,1-Prélèvement,Gestion environnementale,CRE Gaspésie (CREG),Bonaventure
+485,1-Prélèvement,Gestion environnementale,Environnement Côte-Nord (CRE),Sept-îles
+486,1-Prélèvement,Gestion environnementale,CRE du Bas-Saint-Laurent,Rimouski
+487,1-Prélèvement,Gestion environnementale,CRE du Bas-Saint-Laurent,Rimouski
+488,1-Prélèvement,Gestion environnementale,Éco Mitis,
+489,1-Prélèvement,Gestion environnementale,EcoMaris,Montréal
+490,1-Prélèvement,Gestion environnementale,Parc marins,
+491,1-Prélèvement,Gestion environnementale,Réseau québécois d'urgences pour les mammifères marins,Tadoussac
+492,1-Prélèvement,Gestion environnementale,Réseau d’observation de mammifères marins (ROMM),Rivière-du-Loup
+493,3-Distribution,Bailleur de fonds,100°,
+494,3-Distribution,Bailleur de fonds,MAPAQ,
+495,1-Prélèvement,Bailleur de fonds,MPO - Secteur des sciences des Écosystèmes et des océans,Ottawa
+496,1-Prélèvement,Bailleur de fonds,FRQ,
+497,2-Transformation,Bailleur de fonds,FRQ,
+498,3-Distribution,Bailleur de fonds,FRQ,
+499,1-Prélèvement,Bailleur de fonds,Marine Environmental Observation Prediction and Response Network (MEOPAR),
+500,1-Prélèvement,Bailleur de fonds,L’Institut France-Québec pour la coopération scientifique en appui au secteur maritime (IFQM),
+501,1-Prélèvement,Bailleur de fonds,RQM,
+502,1-Prélèvement,Bailleur de fonds,La Vague - Corporation d'innovation et de développement des Îles,
+503,2-Transformation,Bailleur de fonds,La Vague - Corporation d'innovation et de développement des Îles,
+504,3-Distribution,Bailleur de fonds,La Vague - Corporation d'innovation et de développement des Îles,
+505,1-Prélèvement,Recherche et développement,Créneau ressource sciences et technologies marines (RSTM),
+506,2-Transformation,Recherche et développement,Créneau ressource sciences et technologies marines (RSTM),
+507,1-Prélèvement,Assureur,MP2B Assurances,
+508,1-Prélèvement,Assureur,APRIL Marine,Brossard
+509,2-Transformation,Bailleur de fonds,Consortium de Recherche et Innovations en Bioprocédés Industriels au Québec (CRIBIQ),Québec
+510,3-Distribution,Poissonnerie,Poissonnerie Lauzier & Bistro de la mer,Kamouraska
+511,3-Distribution,Poissonnerie,Poissonnerie Lauzier & Bistro de la mer,Kamouraska
+512,3-Distribution,Poissonnerie,Poissonnerie Lauzier,Rivière-du-Loup
+513,3-Distribution,Poissonnerie,Poissonnerie de l'eau à la bouche,Témiscouata-sur-le-Lac
+514,3-Distribution,Poissonnerie,Poissonnerie Bonne bouffe,Rivière-du-Loup
+515,3-Distribution,Poissonnerie,Marché Des Trois Fumoirs,L'Isle-Verte
+516,3-Distribution,Poissonnerie,Poissonnerie du Centre Ville Inc,Trois-Pistoles
+517,3-Distribution,Poissonnerie,Restaurant Poissonnerie les Escoumin,Les Escoumins
+518,3-Distribution,Poissonnerie,Restaurant Poissonnerie les Escoumin,Les Escoumins
+519,3-Distribution,Poissonnerie,Poissonnerie Doucet et fils inc.,Rimouski
+520,3-Distribution,Poissonnerie,Poissonnerie Ste-Odile,Rimouski
+521,3-Distribution,Poissonnerie,Poissonnerie de l'Estuaire,Rimouski
+522,3-Distribution,Poissonnerie,Pêcheries Ian Chouinard inc.,Rimouski
+523,3-Distribution,Poissonnerie,Poissonnerie Gagnon,Rimouski
+524,3-Distribution,Poissonnerie,Marché de poisson Lemieux,Rimouski
+525,3-Distribution,Poissonnerie,Pêcherie Manicouagan,Portneuf-sur-Mer
+526,3-Distribution,Poissonnerie,Capitaine Homard,Sainte-Flavie
+527,3-Distribution,Poissonnerie,Poissonnerie Jean-Guy Laprise Inc,Chute-aux-Outardes
+528,3-Distribution,Poissonnerie,Fumoirs Raoul Roux,Matane
+529,3-Distribution,Poissonnerie,Poissonnerie du Phare Ouest - 9370-0862 QUEBEC INC,Matane
+530,3-Distribution,Poissonnerie,Les Pêcheries Bertrand Desbois Inc,Matane
+531,3-Distribution,Poissonnerie,Poissonnerie Matanaise,Matane
+532,3-Distribution,Poissonnerie,Marché Cévic,Sainte-Anne-des-Monts
+533,3-Distribution,Poissonnerie,Les Délices du Fumoir Gaspésien,Sainte-Anne-des-Monts
+534,3-Distribution,Poissonnerie,Les fumoirs Béland,Petite-Vallée
+535,3-Distribution,Poissonnerie,Poissonnerie La Marinière,Gaspé
+536,3-Distribution,Poissonnerie,Poissonnerie de Gaspé,Gaspé
+537,3-Distribution,Poissonnerie,Les pêcheries MC,Saint-Georges-de-Malbaie
+538,3-Distribution,Poissonnerie,La Poissonnerie du Quai,Percé
+539,3-Distribution,Poissonnerie,Lelièvre Lelièvre et Lemoignan Ltée,Sainte-Thérèse-de-Gaspé
+540,3-Distribution,Poissonnerie,Poissonnerie Aubut Saint-Godefroi,Saint-Godefroi
+541,3-Distribution,Poissonnerie,Poissonnerie du Pêcheur Inc,Bonaventure
+542,3-Distribution,Poissonnerie,Poissonnerie du Pêcheur Inc,Bonaventure
+543,3-Distribution,Poissonnerie,Poissonnerie de la Baie Inc,Bonaventure
+544,3-Distribution,Poissonnerie,Poissonerie de l`île,Saint-Siméon
+546,3-Distribution,Poissonnerie,La Poissonnière Inc,Cap-aux-Meules
+547,3-Distribution,Acquéreur,Poissonnerie de la Baie Inc,Bonaventure
+548,3-Distribution,Acquéreur,Homard des Îles Renaud Inc.,Havre-aux-Maisons
+549,3-Distribution,Acquéreur,LES DISTRIBUTIONS J.M. BERNATCHEZ INC.,Grande-Rivière
+550,3-Distribution,Acquéreur,Poissonnerie chez Omer - 135734 CANADA LTEE- 9000-2726 QUEBEC INC.,Sept-Îles
+551,3-Distribution,Acquéreur,Coopérative des pêcheurs des Îles-de-la-Madeleine,Havre-aux-Maisons
+552,3-Distribution,Acquéreur,Les pêcheries SBL,Grande-Entrée
