@@ -2,6 +2,7 @@ import { gBasemap, projection } from "./mapInit.js";
 import { tile as d3Tile } from "https://cdn.jsdelivr.net/npm/d3-tile@1/+esm";
 
 const tile = d3Tile();
+const CARTO_KEY = "cb1_3tuw_1_21aacae1c5951f13f5872374";
 
 export function drawOSM(width, height, transform = d3.zoomIdentity) {
 
@@ -24,7 +25,7 @@ export function drawOSM(width, height, transform = d3.zoomIdentity) {
     .data(tiles, d => `${d[0]}-${d[1]}-${d[2]}`)
     .join("image")
     .attr("href", d =>
-      `https://cartodb-basemaps-a.global.ssl.fastly.net/light_nolabels/${d[2]}/${d[0]}/${d[1]}.png`
+      `https://cartodb-basemaps-a.global.ssl.fastly.net/light_nolabels/${d[2]}/${d[0]}/${d[1]}.png?key=${CARTO_KEY}`
     )
     .attr("x", d => Math.floor((d[0] + tiles.translate[0]) * tiles.scale))
     .attr("y", d => Math.floor((d[1] + tiles.translate[1]) * tiles.scale))
